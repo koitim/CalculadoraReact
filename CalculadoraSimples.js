@@ -3,7 +3,6 @@ import {StyleSheet, View} from 'react-native';
 import {SOMA, SUBTRAI, DIVIDE, MULTIPLICA_EXIBE, MULTIPLICA_OPERADOR} from './Operador'
 import {ZERO, UM, DOIS, TRES, QUATRO, CINCO, SEIS, SETE, OITO, NOVE, VIRGULA} from './Operando'
 import {Botao, ResultadoTela} from './Calculadora'
-import Expressao from './Expressao';
 
 export default class CalculadoraSimples extends React.Component {
   
